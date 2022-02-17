@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/drawable-v24/bottom_sheet_background.xml" value="0.177" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/drawable-v24/ic_looks_one_black_24dp.xml" value="0.1005" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/drawable-v24/thumb.xml" value="0.177" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/drawable/ciricle.xml" value="0.1825" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/drawable/desc_background.xml" value="0.1665" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/drawable/ic_alarm_black_24dp.xml" value="0.149" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/drawable/ic_baseline_access_alarm_24.xml" value="0.16" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.16" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.16" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.177" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/drawable/line.xml" value="0.177" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/layout/activity_ring.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/layout/desc_bottom_sheet.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/layout/fragment_add_alarm.xml" value="0.25" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/layout/fragment_listalarms.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/layout/item_alarm.xml" value="0.25" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/layout/item_rv.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/layout/repeat_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/AlarmClock2/app/src/main/res/layout/takror_bottom_sheet.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

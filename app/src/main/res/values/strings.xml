@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Alarm Clock</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="uyg_otkich_qo_shish">Uyg\'otkich qo\'shish</string>
+    <string name="signal_paytida_tebranish">Signal paytida tebranish</string>
+    <string name="ishlagandan_keyin_o_chirish">Ishlagandan keyin o\'chirish</string>
+    <string name="belgi">Belgi</string>
+    <string name="bir_marta">Bir marta</string>
+    <string name="har_kuni">Har kuni</string>
+    <string name="du_jum">Du-Jum</string>
+    <string name="maxsus">Maxsus</string>
+    <string name="uyg_otkich_nomini_qo_shing">Uyg\'otkich nomini qo\'shing</string>
+    <string name="nomini_kiriting">Nomini kiriting</string>
+    <string name="takrorlash">Takrorlash</string>
+    <string name="dushanba">dushanba</string>
+    <string name="seshanba">seshanba</string>
+    <string name="chorshanba">chorshanba</string>
+    <string name="payshanba">payshanba</string>
+    <string name="juma">juma</string>
+    <string name="yakshanba">yakshanba</string>
+</resources>

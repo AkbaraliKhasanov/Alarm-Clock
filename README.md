@@ -1,2 +1,2 @@
 # Alarm-Clock
-![download](https://user-images.githubusercontent.com/72391361/154512556-74d1ea2f-bf2c-4079-9da2-8e1f46f76b92.jpg)
+![IMG_20220217_204621](https://user-images.githubusercontent.com/72391361/154519553-6aefc1f2-18a8-40b6-a1c2-930f2c7639c2.jpg)

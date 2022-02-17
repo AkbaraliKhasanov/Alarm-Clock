@@ -34,15 +34,6 @@ class AlarmViewHolder(var binding: ItemAlarmBinding, listener: OnToggleAlarmList
         } else {
             binding.itemAlarmRecurringDays.text = alarm.recurringDaysText
         }
-
-
-    }
-
-    private fun setListeners(alarm: Alarm) {
-        binding.root.setOnLongClickListener {
-            listener.onDelete(alarm)
-            true
-        }
         binding.itemAlarmStarted.setOnCheckedChangeListener { buttonView, isChecked ->
             listener.onToggle(alarm)
             if (isChecked) {
@@ -53,6 +44,15 @@ class AlarmViewHolder(var binding: ItemAlarmBinding, listener: OnToggleAlarmList
             }
 
         }
+
+    }
+
+    private fun setListeners(alarm: Alarm) {
+        binding.root.setOnLongClickListener {
+            listener.onDelete(alarm)
+            true
+        }
+
 
     }
 
